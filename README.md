@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OptimusCenturio
-- 👀 I’m interested in Flutter and Dart
-- 🌱 I’m currently learning Flutter for Desktop
-- 💞️ I'm looking to collaborate with Flutter and Dart on big projects
+- 👀 I’m an expert in Flutter and Dart
+- 🌱 I’m currently experiencing Flutter for Desktop
+- 💞️ I’m looking to collaborate with Flutter and Dart on interesting projects
 - 📫 How to reach me optimus.centurio@gmail.com
 
 <!---
