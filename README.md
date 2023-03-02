@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @OptimusCenturio
-- 👀 I’m an expert in Flutter and Dart
-- 🌱 I’m currently experiencing Flutter for Desktop
-- 💞️ I’m looking to collaborate with Flutter and Dart on interesting projects
+- 👋 Hi, Colleagues call me Nico :)
+- 👀 I’m an expert in Flutter and Dart with over 10 years of excperience in software development (soft + hard)
+- 🌱 I’m currently experiencing Flutter for Desktop, OpenAI and ChatGPT for my existing and new projects
+- 🌱 I'm also enjoying GitHub Copilot
+- 💞️ I'm looking to collaborate with Flutter and Dart on interesting projects using the latest technologies and programming approaches.
 - 📫 How to reach me optimus.centurio@gmail.com
 
 <!---
